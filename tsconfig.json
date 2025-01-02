@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+//    "module": "system",
+    "esModuleInterop": true,
+    "strict": true,
+    "sourceMap": true,
+//    "outFile": "./built/local/tsc.js",
+  },
+//  "include": ["src/**/*"],
+//  "exclude": ["**/*.spec.ts"]
+}
